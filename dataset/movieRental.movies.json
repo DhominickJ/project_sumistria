@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4212"
+  },
+  "title": "The Sure Thing",
+  "cost": 2000,
+  "per_copies_purchased": [
+    5,
+    3,
+    1,
+    2,
+    7,
+    6,
+    9
+  ],
+  "rate": 30,
+  "ovn": 4,
+  "purchased": 33,
+  "genre": "romance"
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4213"
+  },
+  "title": "Out of Africa",
+  "cost": 2000,
+  "per_copies_purchased": [
+    3,
+    1,
+    2,
+    6,
+    4,
+    3,
+    8
+  ],
+  "rate": 10,
+  "ovn": 2,
+  "purchased": 37
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4214"
+  },
+  "title": "Home Alone",
+  "cost": 2000,
+  "per_copies_purchased": [
+    2,
+    5,
+    4,
+    7,
+    0,
+    6,
+    8
+  ],
+  "rate": 10,
+  "ovn": 10,
+  "purchased": 242
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4215"
+  },
+  "title": "Watership Down",
+  "cost": 2000,
+  "per_copies_purchased": [
+    1,
+    1,
+    3,
+    7
+  ],
+  "ovn": null,
+  "purchased": 12,
+  "rate": 10
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4216"
+  },
+  "title": "Blood & Orchid",
+  "cost": 1800,
+  "per_copies_purchased": [
+    5,
+    3,
+    4
+  ],
+  "rate": 15,
+  "ovn": null,
+  "purchased": 12
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4217"
+  },
+  "title": "Wild Orchid",
+  "cost": 1800,
+  "per_copies_purchased": [
+    7
+  ],
+  "rate": 10,
+  "ovn": null,
+  "purchased": 7
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d4218"
+  },
+  "title": "The Natural",
+  "cost": 2500,
+  "per_copies_purchased": [
+    1,
+    3,
+    6,
+    2
+  ],
+  "rate": 15,
+  "ovn": null,
+  "purchased": 12
+},
+{
+  "_id": {
+    "$oid": "65f4fa93cd7757ccf46d421a"
+  },
+  "title": "Mobsters",
+  "cost": 2000,
+  "per_copies_purchased": [
+    5
+  ],
+  "rate": 10,
+  "ovn": null,
+  "purchased": 5
+}]

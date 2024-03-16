@@ -33,7 +33,7 @@ coverage
 bower_components
 
 # Avoiding the database config
-./database
+/database
 
 # node-waf configuration
 .lock-wscript
