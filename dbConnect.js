@@ -3,12 +3,13 @@
 const { MongoClient } = require('mongodb');
 // const { connect } = require('mongoose');
 
-let dbConnection;
+let dbConnection;    
+let password = 'dSKbqC9goiYzpgap'
 
 function connectDatabase(cb) {
-    MongoClient.connect('mongodb://localhost:6969/movieRental')
+    MongoClient.connect(`mongodb+srv://sumi:${password}@moviesystem.2em7psp.mongodb.net/?retryWrites=true&w=majority&appName=movieSystem`)
         .then((client) => {
-            dbConnection = client.db();
+            dbConnection = client.db('movieRental');
             cb(null)
         })
         .catch(err => {
